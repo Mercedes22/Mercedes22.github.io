@@ -7,3 +7,6 @@
 <tr><td>parents #</td><td>4437974588</td></tr>
 <tr><td>favorite snack</td><td>chicken</td></tr>
 </table>
+
+
+<a href = 'http://w3school.com/'> w3school</a>
